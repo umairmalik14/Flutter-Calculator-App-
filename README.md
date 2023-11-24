@@ -1,4 +1,4 @@
-# flutter_app_8
+# Calculator_App
 
 A new Flutter project.
 
@@ -6,11 +6,17 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A minimalist calculator app built with Flutter, featuring basic arithmetic operations. Enjoy a clean and user-friendly interface for seamless calculations. Get started quickly with this simple yet functional Flutter project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Basic arithmetic operations
+- Clean and responsive UI
+
+## Getting Started
+
+1. Clone the repository
+2. Open in your Flutter development environment
+3. Run on your preferred platform
+
+Contribute, report issues, or suggest improvements. Happy coding!
